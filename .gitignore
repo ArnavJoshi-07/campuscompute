@@ -1,0 +1,4 @@
+campus
+*.o
+logs/*.log
+*.zip
